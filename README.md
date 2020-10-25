@@ -1,5 +1,3 @@
-# Resources for Creatives
-
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)

@@ -108,4 +108,5 @@
 | [Facebook Devices](https://facebook.design/devices) |             |
 |                                                     |             |
 
-[**Back to Top**](
+
+[**Back to Top**](#table-of-contents)

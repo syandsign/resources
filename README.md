@@ -1,3 +1,5 @@
+# Resources for Creatives
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
@@ -28,17 +30,17 @@
 
 ## Font Library
 
-| Website                   | Description |
-| ------------------------- | ----------- |
-| Syandsign Font Collection |             |
-| Google Fonts              |             |
-| DaFont                    |             |
-|                           |             |
-|                           |             |
-|                           |             |
-|                           |             |
-|                           |             |
-|                           |             |
+| Website                                                      | Description                          |
+| ------------------------------------------------------------ | ------------------------------------ |
+| [Syandsign Font Collection](https://github.com/syandsign/font-collection) | Fonts Curated by our team            |
+| [Google Fonts](https://fonts.google.com)                     | Free and beautiful fonts from Google |
+| [DaFont](https://dafont.com)                                 | Archive of freely downloadable fonts |
+|                                                              |                                      |
+|                                                              |                                      |
+|                                                              |                                      |
+|                                                              |                                      |
+|                                                              |                                      |
+|                                                              |                                      |
 
 ## Colors
 
@@ -106,5 +108,5 @@
 | [Facebook Devices](https://facebook.design/devices) |             |
 |                                                     |             |
 
-
 [**Back to Top**](#table-of-contents)
+

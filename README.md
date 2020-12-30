@@ -1,5 +1,5 @@
 # Resources for Creatives
-
+Please read [how to contribute](https://github.com/syandsign/resources/blob/main/how%20to%20contribute.md) before submitting new resources.
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
